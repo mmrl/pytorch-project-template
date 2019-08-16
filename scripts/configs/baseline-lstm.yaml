@@ -1,0 +1,9 @@
+# Baseline subLSTM model configuration
+# A dummy LSTM config.
+
+model_type: 'LSTM'
+n_layers: 1
+hidden_size: 50
+dropout: 0.0
+input_size: 2
+output_size: 1
